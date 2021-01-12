@@ -5,6 +5,7 @@ class Key:
 
 	power_current = {'tag': '6100_40263F00', 'unit': 'W'}
 	power_total = {'tag': '6400_00260100', 'unit': 'W'}
+	power_cons = {'tag': '6100_40463700', 'unit': 'W'}
 
 	server_ip = {'tag': '6180_104A9A00'}
 	server_dns = {'tag': '6180_104A9D00'}
